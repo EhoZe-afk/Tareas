@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head> <title> Mi página web</title> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<center><h1><i>¿Qué es HTML?</i></h1></center>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style></head>
+<p>
+<body bgcolor="#79D8FA">
+<img src="html2jpg.jpg" height="20%"width=15%">
+<left><FONT SIZE=5>es el lenguaje con el que se define el contenido de las páginas web, el cual usa una serie de etiquetas para crear cualquier documento.
+<table>
+ <tr>
+  <th>Codigo sin las "</th>
+  <th>Uso </th>
+</tr>
+ <tr>
+  <td><"head"></td>
+  <td>Se usa para dar información sobre el documento.</td>
+<tr>
+ <td><"body"></td>
+ <td>Se usa para poner el contenido.</td>
+</tr>
+<tr>
+ <td><"br></td>
+ <td>Se usa para saltos de línea.</td>
+</tr> </table>
+<p>
+<center><img src="html1.jpg" height="40%"width=30%"></center></br>
+Si todavia quieres involucrarte un poco más aqui te dejo algunas páginas y cursos.
+<ul>
+<li><a href="https://www.w3schools.com/">w3Schools</a>
+<li><a href="https://devcode.la/hwperez/cursos/html-css/certificado/10347/">Devcode</a>
+<li><a href="https://ed.team/cursos/html">EDteam</a>
+</left></FONT SIZE=5> 
+</body>
+</html>
